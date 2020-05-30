@@ -14,7 +14,7 @@
 
 决赛B：263.7404(总榜rank 5)
 
-上分总结及分析：https://blog.csdn.net/u011627998/article/details/106446915(陆续填坑)
+上分总结及分析(陆续填坑)：https://blog.csdn.net/u011627998/article/details/106446915
 
 # 初赛/复赛 寻找有向图中的环路
 
